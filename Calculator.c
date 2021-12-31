@@ -1,3 +1,6 @@
+// This a basic calculator made up of C language
+//Made by Dipjyoti
+
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
