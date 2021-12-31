@@ -80,6 +80,5 @@ getch ();
 
 }
 
-hjdhjj
 
 
